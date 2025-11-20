@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DesignCraft/static/css/main.ce5735e6.css",
-    "main.js": "/DesignCraft/static/js/main.cb632b32.js",
+    "main.js": "/DesignCraft/static/js/main.83a74d8d.js",
     "index.html": "/DesignCraft/index.html",
     "main.ce5735e6.css.map": "/DesignCraft/static/css/main.ce5735e6.css.map",
-    "main.cb632b32.js.map": "/DesignCraft/static/js/main.cb632b32.js.map"
+    "main.83a74d8d.js.map": "/DesignCraft/static/js/main.83a74d8d.js.map"
   },
   "entrypoints": [
     "static/css/main.ce5735e6.css",
-    "static/js/main.cb632b32.js"
+    "static/js/main.83a74d8d.js"
   ]
 }
