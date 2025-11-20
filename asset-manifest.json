@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DesignCraft/static/css/main.ce5735e6.css",
+    "main.js": "/DesignCraft/static/js/main.93a720f8.js",
+    "index.html": "/DesignCraft/index.html",
+    "main.ce5735e6.css.map": "/DesignCraft/static/css/main.ce5735e6.css.map",
+    "main.93a720f8.js.map": "/DesignCraft/static/js/main.93a720f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5735e6.css",
+    "static/js/main.93a720f8.js"
+  ]
+}
